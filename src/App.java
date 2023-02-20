@@ -24,6 +24,7 @@ public class App {
         System.out.println("Add meg a paralepid C oldalat");
 
         double Cold = amugy.nextDouble();
+        System.out.println("Az értéke: ");
         
         double terfogat = Aold*Bold*Cold;
     
